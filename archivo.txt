@@ -1,0 +1,4 @@
+/* Comentario de
+Muchas líneas
+*/
+var msg_1 = []
