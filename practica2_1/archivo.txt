@@ -1,0 +1,3 @@
+// Multiplicacion
+var a=5E3*321;
+print a;
